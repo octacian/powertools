@@ -1,5 +1,10 @@
+![Screenshot](.gh-screenshot.png)
+
 PowerTools [powertools]
 =======================
+* GitHub: https://github.com/octacian/powertools
+* Download: https://github.com/octacian/powertools/archive/master.zip
+* Forum: https://forum.minetest.net/viewtopic.php?f=9&t=17602
 
 PowerTools allows players with the `powertools` privilege to assign a chatcommand to any item in their hotbar which will be executed whenever they punch any node. This allows quickly assigning things like `/time 6000` to an item which will be executed whenever you punch anything.
 
